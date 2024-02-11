@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/Climate-Track/static/css/main.26693632.css",
-    "main.js": "/Climate-Track/static/js/main.22a1c85d.js",
-    "static/js/592.3e73d031.chunk.js": "/Climate-Track/static/js/592.3e73d031.chunk.js",
-    "static/media/cloudy.gif": "/Climate-Track/static/media/cloudy.712d851da35a73f7dc7c.gif",
-    "static/media/thunderstorm.gif": "/Climate-Track/static/media/thunderstorm.c5ec50d42bfdc399ed46.gif",
-    "static/media/Rain.gif": "/Climate-Track/static/media/Rain.b5b16c4572ebdf7d8f54.gif",
-    "static/media/Snow.gif": "/Climate-Track/static/media/Snow.5615ba0598a10b1c6826.gif",
-    "static/media/bg.gif": "/Climate-Track/static/media/bg.f0dcb3d07a49d9b5d40e.gif",
-    "static/media/search.svg": "/Climate-Track/static/media/search.c338d478fc85717ee3774ee89bcb48c2.svg",
-    "index.html": "/Climate-Track/index.html",
-    "static/media/external-link.svg": "/Climate-Track/static/media/external-link.01164b5452e17b4ef2d382ab66d1f23a.svg",
-    "main.26693632.css.map": "/Climate-Track/static/css/main.26693632.css.map",
-    "main.22a1c85d.js.map": "/Climate-Track/static/js/main.22a1c85d.js.map",
-    "592.3e73d031.chunk.js.map": "/Climate-Track/static/js/592.3e73d031.chunk.js.map"
+    "main.css": "/Kabir1302/Climate-Track.git/static/css/main.43240fc2.css",
+    "main.js": "/Kabir1302/Climate-Track.git/static/js/main.6ee8a4ce.js",
+    "static/js/592.3e73d031.chunk.js": "/Kabir1302/Climate-Track.git/static/js/592.3e73d031.chunk.js",
+    "static/media/cloudy.gif": "/Kabir1302/Climate-Track.git/static/media/cloudy.712d851da35a73f7dc7c.gif",
+    "static/media/thunderstorm.gif": "/Kabir1302/Climate-Track.git/static/media/thunderstorm.c5ec50d42bfdc399ed46.gif",
+    "static/media/Rain.gif": "/Kabir1302/Climate-Track.git/static/media/Rain.b5b16c4572ebdf7d8f54.gif",
+    "static/media/Snow.gif": "/Kabir1302/Climate-Track.git/static/media/Snow.5615ba0598a10b1c6826.gif",
+    "static/media/bg.gif": "/Kabir1302/Climate-Track.git/static/media/bg.f0dcb3d07a49d9b5d40e.gif",
+    "static/media/icon.png": "/Kabir1302/Climate-Track.git/static/media/icon.bab10f7552f152f63594.png",
+    "static/media/search.svg": "/Kabir1302/Climate-Track.git/static/media/search.c338d478fc85717ee3774ee89bcb48c2.svg",
+    "index.html": "/Kabir1302/Climate-Track.git/index.html",
+    "static/media/external-link.svg": "/Kabir1302/Climate-Track.git/static/media/external-link.01164b5452e17b4ef2d382ab66d1f23a.svg",
+    "main.43240fc2.css.map": "/Kabir1302/Climate-Track.git/static/css/main.43240fc2.css.map",
+    "main.6ee8a4ce.js.map": "/Kabir1302/Climate-Track.git/static/js/main.6ee8a4ce.js.map",
+    "592.3e73d031.chunk.js.map": "/Kabir1302/Climate-Track.git/static/js/592.3e73d031.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.26693632.css",
-    "static/js/main.22a1c85d.js"
+    "static/css/main.43240fc2.css",
+    "static/js/main.6ee8a4ce.js"
   ]
 }
