@@ -1,7 +1,7 @@
 {
   "name": "weather-check",
   "version": "0.1.0",
-  "homepage": "https://github.com/Kabir1302/Climate-Track.git",
+  "homepage": "https://Kabir1302.github.io/Climate-Track",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
