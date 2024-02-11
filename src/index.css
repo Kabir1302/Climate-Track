@@ -53,7 +53,9 @@ body{
   width: 20px;
   position: absolute;
 }
-
+.iconImage{
+  background: none;
+}
 .currtemp{
   width: 100%;
   display: flex;

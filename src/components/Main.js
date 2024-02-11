@@ -64,6 +64,8 @@ const Main = () => {
     }
   };
 
+  
+
   const backgroundImage = getBackgroundImage(dataWeather.main);
 
   return (

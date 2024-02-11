@@ -1,4 +1,5 @@
-import React from 'react'
+import React from 'react';
+import icon from './images/icon.png'
 
 const WeatherData = (props) => {
 
@@ -13,7 +14,7 @@ const WeatherData = (props) => {
       <div className='currtemp'>
         <div className='tempAndLogo'>
           <div>
-            <img src={`assets/${props.weather.icon}.svg`} width={200} alt='icon' />
+            <img src={icon} width={100} alt='icon' className="iconImage" />
           </div>
           <div>
             {Math.round(props.weatherData.temp)}&deg;C
